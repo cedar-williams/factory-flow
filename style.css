@@ -1,0 +1,8 @@
+#diagram {
+   border:1px solid black;
+   min-height: 300px;
+}
+
+* {
+    border: 1px solid red;
+}

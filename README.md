@@ -1,2 +1,3 @@
 # factory-flow
-Factory designer for Satisfactory (and others) using [Flowy](https://github.com/alyssaxuu/flowy)
+Factory logical flow diagram designer for Satisfactory (and others)
+For planning how to utilize the machines
